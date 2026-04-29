@@ -52,6 +52,7 @@ This portfolio highlights my applied cybersecurity experience and demonstrates:
 - Commitment to continuous development  
 
 ## 📬 Contact
-For professional inquiries or opportunities, please connect with me on LinkedIn or through my GitHub profile.
+For professional inquiries or opportunities, please connect with me on LinkedIn or email.
 LinkedIn: www.linkedin.com/in/wendy-henriquez-0a2b60152
+Email: Wendy.Henriquez.Cyber@gmail.com
 
